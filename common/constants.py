@@ -1,0 +1,1 @@
+PATH_PREFIX = '/Users/yifu/Documents/stock'
